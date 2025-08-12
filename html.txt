@@ -3,17 +3,17 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Kothem Durga Lakshmi - Portfolio</title>
+  <title>Kalyani bhuvaneswari - Portfolio</title>
   
 </head>
 <body>
 
   <header>
-    <h1>Kothem Durga Lakshmi</h1>
+    <h1>Kalyani bhuvaneswari</h1>
     <nav>
       <ul>
-        <li><a>pithapuram</a></li>
-        <li><a>kothemkonda2@gmail.com</a></li>
+        <li><a>peddapuram</a></li>
+        <li><a>kalyanib.rayudu@gmail.com</a></li>
         <li><a>1234567891</a></li>
       </ul>
     </nav>
@@ -26,10 +26,11 @@
     </section>
 
     <section class="profile">
-      <img src="your-photo.jpg" hight="200" width=300 alt="Kothem Durga Lakshmi">
+      <img src="your-photo.jpg" hight="200" width=300 alt="Kalyani bhuvaneswari">
       <p class="caption">This is me — always ready to learn and grow!</p>
     </section>
   </main>
 
 </body>
 </html>
+
