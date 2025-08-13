@@ -1,3 +1,0 @@
-name:durga
-course:Bca
-I learned about basics of github
